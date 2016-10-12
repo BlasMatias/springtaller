@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-Korea Peneus
-Avenida Paraguay Pablo vip
-
-
-
+	<H1>Para acceder a la pagina de la empresa hay que acceder a la direccion www.empresa.com.py</H1>
 </body>
 </html>

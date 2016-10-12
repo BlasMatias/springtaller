@@ -1,5 +1,17 @@
 
-# Created by https://www.gitignore.io/api/java,eclipse,maven,windows
+# Created by https://www.gitignore.io/api/maven,java,eclipse,windows
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
 
 ### Eclipse ###
 
@@ -53,18 +65,6 @@ local.properties
 
 # Code Recommenders
 .recommenders/
-
-
-### Maven ###
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
 
 
 ### Windows ###
